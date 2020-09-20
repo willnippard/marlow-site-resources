@@ -11,4 +11,4 @@
 * Change the file `background.jpg` or `headshot.jpg` (names must stay the same) to desired background (in `images` folder)
 
 ### Changing showreel:
-* Change the file `showreel.mp4` (name must stay the same) to desired showreel (in `video` folder)
+* Add comma Youtube link to (or other hosted video) `showreel.txt`
